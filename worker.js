@@ -26,8 +26,8 @@
  */
 
 // ====== CONFIG（必填：填你的两个域名）======
-const API_HOST = "bgm.example.com"; // 你的 API 域名（代理 api.bgm.tv）
-const IMG_HOST = "bgmimg.example.com"; // 你的图片域名（代理 lain.bgm.tv）
+const API_HOST = "api.bgm.7sdre.am"; // 你的 API 域名（代理 api.bgm.tv）
+const IMG_HOST = "img.bgm.7sdre.am"; // 你的图片域名（代理 lain.bgm.tv）
 
 // 可选：随机路径前缀。设置后只有带此前缀的请求才会被代理，例如：
 //   PATH_PREFIX = "abc123xyz"  ->  实际 base_url = bgm.example.com/abc123xyz
